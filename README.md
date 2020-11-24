@@ -7,7 +7,7 @@
 
 [HOSTING](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/hosting.txt)
 
-[RANDON](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/random.txt)
+[RANDOM](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/random.txt)
 
 [WORDPRESS](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/wordpress.txt)
 
