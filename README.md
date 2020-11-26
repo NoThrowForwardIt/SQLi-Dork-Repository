@@ -1,5 +1,5 @@
-# SQLi-Dork-Repository
-*Dorks Hacking Database for educational proposal*
+# SQLi-Dorks
+*Dorks for educational purpose.*
 
 
 
