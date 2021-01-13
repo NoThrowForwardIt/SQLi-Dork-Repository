@@ -1,13 +1,13 @@
-# SQLi-Dork-Repository
-*Dorks Hacking Database for educational proposal*
+# SQLi-Dorks
+*Dorks for educational purpose.*
 
 
 
-[WORDPRESS THEMES](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/WordpressThemes.txt)
+[WORDPRESS THEMES](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/wpthemes.txt)
 
 [HOSTING](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/hosting.txt)
 
-[RANDON](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/random.txt)
+[RANDOM](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/random.txt)
 
 [WORDPRESS](https://github.com/ironbits/SQLi-Dork-Repository/blob/master/wordpress.txt)
 
